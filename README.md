@@ -9,5 +9,11 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact" /> -->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-5ssusj1rc-fabian8.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats-5ssusj1rc-fabian8.vercel.app/api/top-langs/?username=fabian4&layout=compact" />
+  </a>
+</div>
