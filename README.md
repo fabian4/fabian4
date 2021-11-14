@@ -8,6 +8,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact" /> -->
 <!-- <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=fabian&theme=dark" /> -->
