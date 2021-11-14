@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=fabian4&label=views&color=0e75b6&style=flat" alt="fabian4" />
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner for full-stack developing skills</h3>
 
 - 🔭 I’m currently working on chat-bot
 - 🌱 I’m currently learning Javascript and Typescript
