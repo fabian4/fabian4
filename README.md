@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think I am super fun**
 
-- 🔭 I’m currently working on chat bot
+- 🔭 I’m currently working on my life
 
 - 📫 How to reach me **fabian4@163.com**
 
