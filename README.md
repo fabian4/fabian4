@@ -21,7 +21,7 @@
 
 <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> |
 | ------------- | ------------- |
 
 <br/>
