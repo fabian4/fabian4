@@ -90,6 +90,8 @@ Windows                  17 hrs 20 mins      ███████████�
 ```
 
 <!--END_SECTION:waka-->
-
+  
+![img](https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/be522a51-20de-4ee7-9173-54e315fb749f.svg)
+  
 </details>
 
