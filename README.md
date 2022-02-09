@@ -26,7 +26,7 @@
 
 <br/>
 
-<figure><embed src="https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/db9ae686-3c80-430c-90d7-eec775c72f5c.svg"></embed></figure>
+<img src="https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/be522a51-20de-4ee7-9173-54e315fb749f.svg" width="600" height="600">
 
 <details>
   <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
