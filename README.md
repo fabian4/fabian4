@@ -26,8 +26,10 @@
 
 <br/>
 
+<figure><embed src="https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/db9ae686-3c80-430c-90d7-eec775c72f5c.svg"></embed></figure>
+
 <details>
-  <summary>✍️ <b>My Leetcode Record</b></summary>
+  <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
  
  ---
   
@@ -36,8 +38,10 @@
 
 </details>
 
+<br/>
+
 <details>
-  <summary>👨‍💻 <b>My Working details</b></summary>
+  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/dashboard">Waka</a></b></summary>
   
 ---
   
