@@ -26,8 +26,6 @@
 
 <br/>
 
-<img src="https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/be522a51-20de-4ee7-9173-54e315fb749f.svg" width="600" height="600">
-
 <details>
   <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
  
@@ -41,7 +39,7 @@
 <br/>
 
 <details>
-  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/dashboard">Waka</a></b></summary>
+  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/dashboard">Waka</a> this week</b></summary>
   
 ---
   
@@ -91,7 +89,15 @@ Windows                  17 hrs 20 mins      ███████████�
 
 <!--END_SECTION:waka-->
   
-![img](https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/be522a51-20de-4ee7-9173-54e315fb749f.svg)
-  
 </details>
 
+<br/>
+
+<details>
+  <summary>⏱️ <b>Languangs I used over All time</b></summary>
+  
+---
+  
+![languages all time](https://wakatime.com/share/@32ef5ac6-eac5-4886-805c-ce9fe059857e/efc24c85-e478-4696-bcbd-c5669145b831.svg)
+  
+</details>
