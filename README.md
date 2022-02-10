@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=fabian4&label=views&color=0e75b6&style=flat" alt="fabian4" />
+<img align="right" src="https://komarev.com/ghpvc/?username=fabian4&label=views&color=0e75b6&style=flat" alt="fabian4" /><img align="right" src="https://img.shields.io/badge/Author-fabian4-orange?logo=Dark%20Reader" alt="fabian4" />
 
 - ⚡ Fun fact **I think I am super fun**
 
