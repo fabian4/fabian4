@@ -27,7 +27,7 @@
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabian4&theme=gruvbox_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&hide_border=true&date_format=[Y.]n.j" /> |
 | ------------- | ------------- | ------------- | -->
 
-<br/>
+<!-- <br/>
 
 <details>
   <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
@@ -37,7 +37,7 @@
 |[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabian&border=0)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
 | ------------- | ------------- |
 
-</details>
+</details> -->
 
 <br/>
 
