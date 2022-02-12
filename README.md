@@ -22,61 +22,27 @@
 <br/>
 
 <!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-|  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabian4&theme=gruvbox_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&hide_border=true&date_format=[Y.]n.j" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> |
-| ------------- | ------------- |
-
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabian4&theme=gruvbox_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&hide_border=true&date_format=[Y.]n.j" /> |
-| ------------- | ------------- | ------------- | -->
-
-<br/>
-
-|![fabian4's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabian4&theme=github-light&area=true)|
-| --- |
-
-<!-- <br/>
-
-<details>
-  <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
- 
- ---
-  
-|[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabian&border=0)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
-| ------------- | ------------- |
-
-</details> -->
-
-<br/>
-
-<details>
-  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/dashboard">Waka</a> this week</b></summary>
-  
----
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%203%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    196 commits    ██████░░░░░░░░░░░░░░░░░░░   25.13% 
-🌆 Daytime    285 commits    █████████░░░░░░░░░░░░░░░░   36.54% 
-🌃 Evening    288 commits    █████████░░░░░░░░░░░░░░░░   36.92% 
+🌞 Morning    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.97% 
+🌆 Daytime    285 commits    █████████░░░░░░░░░░░░░░░░   36.49% 
+🌃 Evening    290 commits    █████████░░░░░░░░░░░░░░░░   37.13% 
 🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Tuesday      131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-Wednesday    135 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Thursday     142 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
-Friday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
-Sunday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31%
+Monday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+Tuesday      131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Wednesday    134 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+Saturday     72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Sunday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
 
 ```
 
@@ -85,20 +51,20 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   42.23% 
-Java                     6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53% 
-TypeScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
-Go                       3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
+Other                    20 hrs 13 mins      █████████████░░░░░░░░░░░░   51.76% 
+Java                     6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
+TypeScript               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Go                       3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.67%
 
 🔥 Editors: 
-Browser                  12 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   42.23% 
-IntelliJ                 7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01% 
-WebStorm                 5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
-GoLand                   5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87%
+Browser                  20 hrs 13 mins      █████████████░░░░░░░░░░░░   51.76% 
+IntelliJ                 7 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33% 
+WebStorm                 5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+GoLand                   5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
 
 💻 Operating System: 
-Windows                  30 hrs 10 mins      █████████████████████████   100.0%
+Windows                  39 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
