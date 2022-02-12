@@ -21,6 +21,34 @@
 
 <br/>
 
+|  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabian4&theme=gruvbox_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&hide_border=true&date_format=[Y.]n.j" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> |
+| ------------- | ------------- |
+
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian4&count_private=true&show_icons=true&theme=flag-india&show_owner=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabian4&theme=gruvbox_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&hide_border=true&date_format=[Y.]n.j" /> |
+| ------------- | ------------- | ------------- | -->
+
+<br/>
+
+|![fabian4's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabian4&theme=github-light&area=true)|
+| --- |
+
+<!-- <br/>
+<details>
+  <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
+ 
+ ---
+  
+|[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabian&border=0)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
+| ------------- | ------------- |
+</details> -->
+
+<br/>
+
+<details>
+  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/dashboard">Waka</a> this week</b></summary>
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%203%20mins-blue)
 
