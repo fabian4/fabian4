@@ -21,6 +21,10 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 |  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabian4&theme=gruvbox_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&hide_border=true&date_format=[Y.]n.j" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true&exclude_repo=jdk,jdk-source-learning,spring-framework,netty,jdk,fabian4.github.io,wechaty.js.org,sofa-bolt" /> |
 | ------------- | ------------- |
 
