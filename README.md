@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **JavaScript** and **typescript**
 
-- 📝 I regularly write articles on [My Personal Blog](https://fabian4.github.io/)
+- 📝 I regularly write articles on [My Site](https://fabian4.site/)
 
-- 📄 Know about my Daily details on [My Personal Blog Galllery](https://fabian4.github.io/gallery/)
+<!-- - 📄 Know about my Daily details on [My Personal Blog Galllery](https://fabian4.github.io/gallery/) -->
 
 <br/>
 
