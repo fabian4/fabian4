@@ -47,7 +47,7 @@
 <br/>
 
 <details>
-  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/dashboard">Waka</a> this week</b></summary>
+  <summary>👨‍💻 <b>My Working details from <a href="https://wakatime.com/@fabian4">Waka</a> this week</b></summary>
 
 ---
 
