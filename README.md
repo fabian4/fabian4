@@ -34,15 +34,19 @@
 |![fabian4's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabian4&theme=github-light&area=true)|
 | --- |
 
-<!-- <br/>
+<br/>
 <details>
   <summary>✍️ <b>My Leetcode Record from the <a href="https://github.com/fabian4/leetcode">repo</a></b></summary>
  
  ---
   
-|[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabianbao&border=0&site=cn)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
-| ------------- | ------------- |
-</details> -->
+  |[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabianbao&border=0&site=cn)](https://leetcode-cn.com/u/fabianbao/)|
+  | ------------- |
+  
+<!-- |[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabianbao&border=0&site=cn)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
+| ------------- | ------------- | -->
+  
+</details>
 
 <br/>
 
