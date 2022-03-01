@@ -40,7 +40,7 @@
  
  ---
   
-|[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabian&border=0)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
+|[![Leetcode Stats](https://leetcode.card.workers.dev/?username=fabianbao&border=0&site=cn)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian&theme=Light)](https://leetcode-cn.com/u/fabianbao/)|
 | ------------- | ------------- |
 </details> -->
 
