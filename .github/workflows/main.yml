@@ -23,4 +23,5 @@ jobs:
           SHOW_UPDATED_DATE: "False" 
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
+          COMMIT_MESSAGE: Update
           LOCALE: "en"
