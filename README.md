@@ -31,8 +31,7 @@
 
 <br/>
 
-|![fabian4's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabian4&theme=github-light&area=true)|
-| --- |
+![fabian4's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabian4&theme=github-light)
 
 <br/>
 <details>
