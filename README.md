@@ -38,7 +38,7 @@
  
  ---
   
-|[![Leetcode Stats](https://leetcard.jacoblin.cool/fabianbao?theme=light&font=Bubbler%20One&ext=heatmap&site=cn&border=0)](https://leetcode-cn.com/u/fabianbao/)|
+|[![Leetcode Stats](https://leetcard.jacoblin.cool/fabianbao?theme=light&font=Zen%20Kurenaido&ext=heatmap&site=cn&border=0)](https://leetcode-cn.com/u/fabianbao/)|
 | ------------- |
   
 <!--|[![Leetcode Stats](https://leetcard.jacoblin.cool/fabianbao?theme=light&font=Bubbler%20One&ext=heatmap&site=cn&border=0)](https://leetcode-cn.com/u/fabianbao/)|[![fabian's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fabian)](https://leetcode-cn.com/u/fabianbao/)|
