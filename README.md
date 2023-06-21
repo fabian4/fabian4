@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
-<h3 align="center">A backend developer with the knowledge of BigData / frontend / full-stack</h3>
 
 <br/>
 
