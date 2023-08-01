@@ -29,7 +29,7 @@
 
 <br/>
 
-![fabian4's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabian4&theme=github-light)
+[![Fabian4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabian4&bg_color=fcfcfc&color=06050a&line=0ecd74&point=100909&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <details>
