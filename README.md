@@ -6,7 +6,7 @@
 
 <br/>
 
-<table align="right" border="0.5"><tr><th><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4&layout=compact&theme=buefy&hide_border=true"/</th></tr></table>
+<img align="right"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabian4&theme=github"/>
 
 - 💬 Ask me about **anything**
 
@@ -21,6 +21,10 @@
 - 🌱 I’m currently learning **BigData** and **Devops** 
 
 <!-- - 📄 Know about my Daily details on [My Personal Blog Galllery](https://fabian4.github.io/gallery/) -->
+
+<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabian4&theme=vue)
 
 <br/>
 
