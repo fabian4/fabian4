@@ -16,9 +16,9 @@
 
 - 📝 I regularly write articles on [My Site](https://fabian4.site/)
 
-- 📫 How to reach me **fabian4@163.com**
+- 📫 How to reach me **fabian.v.bao@gmail**
 
-- 🌱 I’m currently learning **BigData** and **Devops** 
+- 🌱 I’m currently learning **React** and **TailwindCSS** 
 
 <!-- - 📄 Know about my Daily details on [My Personal Blog Galllery](https://fabian4.github.io/gallery/) -->
 
