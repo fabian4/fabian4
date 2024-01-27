@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [My Site](https://fabian4.site/)
 
-- 📫 How to reach me **fabian.v.bao@gmail.com**
+- 📫 How to reach me **fabianbao@apache.org**
 
 - 🌱 I’m currently learning **React** and **TailwindCSS** 
 
