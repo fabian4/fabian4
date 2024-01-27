@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fabianbao@apache.org**
 
-- 🌱 I’m currently learning **React** and **TailwindCSS** 
+- 🌱 I’m currently learning **K8S** and **Cloud Native** 
 
 <!-- - 📄 Know about my Daily details on [My Personal Blog Galllery](https://fabian4.github.io/gallery/) -->
 
