@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [My Site](https://fabian4.site/)
 
-- 📫 How to reach me **fabianbao@apache.org**
+- 📫 How to reach me **fabian.v.bao@gmail.com**
 
 - 🌱 I’m currently learning **K8S** and **Cloud Native** 
 
